@@ -2,7 +2,7 @@
 
 ### Software Engineer from Kenya.
 
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=ntwigamartin)
 <!--
 **ntwigamartin/ntwigamartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
